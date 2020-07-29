@@ -81,7 +81,7 @@ So far I have gathered the following datasets that would appropriately fit my st
 
 To conduct the interview and research, I picked two of my family members and a friend. I had created an outline of my project along with a script that contained the interview questions. I have documented the initial setup and interview session below.
 
-** Script and questions:**
+**Script and questions:**
 
 I created a wireframe in power point with the sketches and showed to my interviewees. I did not share my project title. I wanted them to guess the topic based on my sketches and visuals. The idea was for them to guess the topic, suggest improvements, and be my critique.
 
@@ -90,17 +90,17 @@ Showed a draft presentation of my project visuals and informed that they were lo
 
 #### First interview with a family member:
  
- *  What do you think is the topic of my project?
+ 1.  What do you think is the topic of my project?
 
 **Answer** The sketches explain the growth of Google with time. Is that your project?
 
 *I told that this was pretty close. I am showing the rise of Google.*
 
- * Do you think I should include more history of Google?
+ 2.  Do you think I should include more history of Google?
 **Answer** You should have a couple of visuals related to the history.
 
- *What other sub-topics could be relevant for this project*
+ 3. What other sub-topics could be relevant for this project*
 
- *My anser: I plan on using a story telling tool called Shorthand for my project, do you have any suggestions?*
+ *My answer: I plan on using a story telling tool called Shorthand for my project, do you have any suggestions?*
 **Answer** You should try a platform called Storybird.
 

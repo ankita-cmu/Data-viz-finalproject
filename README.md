@@ -44,10 +44,12 @@ Google's market share of search engine from 2010.
 https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/
 
 **Google vs. Microsoft Advertising**
+
 This statistic shows the mobile search click share of Google and Microsoft Advertising in the United States as of the first quarter of 2020, sorted by device. 
 https://www.statista.com/statistics/223308/trend-in-impressions-on-google-and-bing-in-the-us/
 
 **Closing points**
+
 Finally, I will all tie this up together to show how Google has changed people's live with its growth and success. What kind of impact does Google have on a normal person's life on a day to day basis.
 
 

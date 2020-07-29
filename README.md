@@ -131,72 +131,111 @@ Showed a draft presentation of my project visuals and informed that they were lo
 
 **First interviewee - An anonymous friend:**
  
- 1.  What do you think is the topic of my project?
+ *  What do you think is the topic of my project?
+ 
  Answer: The sketches explain the growth of Google with time. Is that your project?
-*I told that this was pretty close. I am showing the rise of Google.*
 
- 2.  Do you think I should include more history of Google? 
+ *I told that this was pretty close. I am showing the rise of Google.*
+
+ *  Do you think I should include more history of Google? 
+ 
  Answer: You should have a couple of visuals related to the history.
 
- 3. What other sub-topics could be relevant for this project*
+ * What other sub-topics could be relevant for this project*
+ 
  Answer: I think you have covered most of the topics. Elaorate them in your final story.
 
- 4. Could you please critique my sketches? 
+ * Could you please critique my sketches? 
+ 
  Answer: Your story could use more sketches.
  
- 5. Do you like the story telling platform that I have chosen? 
+ * Do you like the story telling platform that I have chosen? 
+ 
  Answer: Shorthand sounds good. You should also explore a platform called Storybird.
  
- 6. Could you please ctitique the content? 
+ * Could you please ctitique the content? 
+ 
  Answer: The content looks good. You can include content related to Google Play.
  
- 7. Do you have any suggestions for the overall project? 
+ * Do you have any suggestions for the overall project? 
+ 
  Answer: Make sure that the Shorthand version of the story turns out well.
  
  **Second interviewee - A family member:**
  
- 1.  What do you think is the topic of my project?
+ *  What do you think is the topic of my project?
+ 
  Answer: It seems like you are working on Google's growth and comparing with top internet giants.
+
 *I told that this was pretty close. I am showing the rise of Google.*
 
- 2.  Do you think I should include more history of Google? 
+ *  Do you think I should include more history of Google? 
+ 
  Answer: The history looks fine. Add more content based on your study.
 
- 3. What other sub-topics could be relevant for this project*
+ * What other sub-topics could be relevant for this project*
+ 
  Answer: You can add a story related to Government's request to remove content from Google.
 
- 4. Could you please critique my sketches? 
+ * Could you please critique my sketches? 
+ 
  Answer: The sketches look fine. Use more visual and use a better tool to create them.
  
- 5. Do you like the story telling platform that I have chosen? 
+ * Do you like the story telling platform that I have chosen? 
+ 
  Answer: I don't know a lot of data visual tools. This one looks good.
  
- 6. Could you please ctitique the content? 
+ * Could you please ctitique the content? 
+ 
  Answer: The content looks good. Make sure you add enough write-up.
  
- 7. Do you have any suggestions for the overall project? 
+ * Do you have any suggestions for the overall project? 
+ 
  Answer: I think you have a clear vision of your project. I wish you good luck.
  
  **Third interviewee - A family member:**
  
- 1.  What do you think is the topic of my project?
+ *  What do you think is the topic of my project?
+ 
  Answer: It seems like you are working on Google's achievements and trying to tell a story of Google's success.
 *I told that this was pretty close. I am showing the rise of Google.*
 
- 2.  Do you think I should include more history of Google? 
+ *  Do you think I should include more history of Google? 
+ 
  Answer: The history looks fine, add a little more write up.
 
- 3. What other sub-topics could be relevant for this project?
+ * What other sub-topics could be relevant for this project?
+ 
  Answer: You can add more comparison related stories with other tech giants.
 
- 4. Could you please critique my sketches? 
+ * Could you please critique my sketches? 
+ 
  Answer: The sketches look good. Use a good tool to formalize them.
  
- 5. Do you like the story telling platform that I have chosen? 
+ * Do you like the story telling platform that I have chosen? 
+ 
  Answer: Shorthand sounds good. I have heard good things about this platform.
  
- 6. Could you please ctitique the content?
+ * Could you please ctitique the content?
+ 
  Answer: The content will make more sense when you have more write-up.
  
- 7. Do you have any suggestions for the overall project? 
+ * Do you have any suggestions for the overall project? 
+ 
  Answer: The first draft looks great. I could understand what story are you trying to tell. I will eagerly wait for the full story set-up.
+ 
+ ### **Improvements and plan to work on the project next week based on feedback:**
+
+	* Research more content to create a good story about Google's rise.
+ 
+ * Explore one more story telling tool called Storybird.
+ 
+ * Formalize the sketches and convert them to charts/graphs to fit the story.
+ 
+ * Add more content about Google and its competitors.
+ 
+ * Add a story related to Government’s request to remove content from Google.
+ 
+ * Elaborate on each topic.
+ 
+ * Makre sure that all the sub-topics lead to a story that shows the rise of Google as a giant.

@@ -75,6 +75,7 @@ Showed a draft presentation of my project visuals and informed that they were lo
  *  What do you think is the topic of my project?
 
 **Answer** The sketches explain the growth of Google with time. Is that your project?
+
 *I told that this was pretty close. I am showing the rise of Google.*
 
  * Do you think I should include more history of Google?
@@ -82,6 +83,6 @@ Showed a draft presentation of my project visuals and informed that they were lo
 
  *What other sub-topics could be relevant for this project*
 
- * I plan on using a story telling tool called Shorthand for my project, do you have any suggestions?*
+ *My anser: I plan on using a story telling tool called Shorthand for my project, do you have any suggestions?*
 **Answer** You should try a platform called Storybird.
 

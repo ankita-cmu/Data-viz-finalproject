@@ -1,7 +1,7 @@
 # Data-viz-finalproject
 Telling Stories with data final project
 
-## Project Name - The Rise and Evolution of Google
+## **Project Name - The Rise and Evolution of Google**
 
 ### Introduction
 
@@ -189,7 +189,7 @@ Showed a draft presentation of my project visuals and informed that they were lo
  
  Answer: I think you have a clear vision of your project. I wish you good luck.
  
- #### Third interviewee - A family member:
+ ####Third interviewee - A family member:
  
  1.  What do you think is the topic of my project?
 

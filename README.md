@@ -55,6 +55,7 @@ Finally, I will all tie this up together to show how Google has changed people's
 I shall be documenting my project in Shorthand tool.
 
 ### Dataset
+I discovered a great website www.statista.com that has quite a lot of dataset for this topic. This website provides free as well as paid data. I am relying on the material that's available for no cost.
 Shown below are some of the datasets that I plan on using to fit my story and visuals.
 
 ### Initial sketches / wireframes / visuals

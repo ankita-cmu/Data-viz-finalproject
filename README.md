@@ -88,19 +88,28 @@ I created a wireframe in power point with the sketches and showed to my intervie
 Premise /setup:
 Showed a draft presentation of my project visuals and informed that they were looking at my initial sketches of Telling Stories with Data coursework's final project. 
 
-#### First interview with a family member:
+#### First interviewee - An anonymous friend:
  
  1.  What do you think is the topic of my project?
 
-**Answer** The sketches explain the growth of Google with time. Is that your project?
+ Answer: The sketches explain the growth of Google with time. Is that your project?
 
 *I told that this was pretty close. I am showing the rise of Google.*
 
  2.  Do you think I should include more history of Google?
-**Answer** You should have a couple of visuals related to the history.
+ 
+ Answer: You should have a couple of visuals related to the history.
 
  3. What other sub-topics could be relevant for this project*
 
- *My answer: I plan on using a story telling tool called Shorthand for my project, do you have any suggestions?*
-**Answer** You should try a platform called Storybird.
+ Answer: I think you have covered most of the topics. Elaorate them in your final story.
 
+ 4. Could you please critique my sketches?
+ 
+ Answer:
+ 
+ 5. Do you like the story telling platform that I have chosen?
+ 
+ Answer: Shorthand sounds good. You should also try a platform called Storybird.
+ 
+ *My answer: I plan on using a story telling tool called Shorthand for my project, do you have any suggestions?*

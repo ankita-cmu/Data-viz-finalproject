@@ -1,9 +1,9 @@
 # Data-viz-finalproject
 Telling Stories with data final project
 
-## Project Name - The Rise and Evolution of Google
+## **Project Name - The Rise of Google**
 
-**### Introduction**
+### **Introduction**
 
 Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies alongside Amazon, Apple and Microsoft.
 
@@ -13,7 +13,7 @@ The aim of my story is to show how Google rose amongst the world's topmost compa
 
 In this section I will gather information about how Google started its journey and what brought it to life. 
 
-### Next few sections will cover Facts and Statistics about Google's growth
+### **Next few sections will cover Facts and Statistics about Google's growth**
 
 **Financial analysis of Google**
 
@@ -49,11 +49,15 @@ In this section I will highligth some of Google's contributions in brining billi
 Finally, I will all tie this up together to show how Google has changed people's live with its growth and success. What kind of impact does Google have on a normal person's life on a day to day basis.
 
 
-### Tools that I plan on using
+### **Tools that I plan on using**
 
-I shall be documenting my project in Shorthand tool. Their templates allow for elegant and simple stories that any novice could quickly master creating, as well as the option for more technically nuanced approaches to create slick and professional designs.
+ * I shall be documenting my project in Shorthand tool. Their templates allow for elegant and simple stories that any novice could quickly master creating, as well as the option for more technically nuanced approaches to create slick and professional designs.
+ 
+ * To document my ideas and initial sketches, I have used Balsamiq.
+ 
+ * I plan on using Datawrapper and Flourish Studio for final project sketches.
 
-### Dataset
+### **Dataset**
 
 I discovered a great website www.statista.com that has quite a lot of dataset for this topic. This website provides free as well as paid data. I am relying on the material that's available for no cost.
 
@@ -74,7 +78,7 @@ So far I have gathered the following datasets that would appropriately fit my st
 [Google Cloud revenues from 2017 to 2019.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/4996470/Google.Cloud.revenues.from.2017.to.2019.xlsx)
 
 
-### Initial sketches / wireframes / visuals
+### **Initial sketches / wireframes / visuals**
 
 I used Balsamiq (my latest favorite tool) to frame my ideas in asequence. Please find below the Balsamiq flow that is my wireframe for the initial fraft of this project. It contains my initial sketches and ideas. 
 
@@ -99,7 +103,7 @@ I used Balsamiq (my latest favorite tool) to frame my ideas in asequence. Please
 I have also added the wireframe as a pdf: ([Data visualization final project wireframe.pdf](https://github.com/ankita-cmu/Data-viz-finalproject/files/4997547/Data.visualization.final.project.wireframe.pdf)
 ).
 
-### User research and interviews
+### **User research and interviews**
 
 To conduct the interview and research, I picked two of my family members and a friend. I showed them the above Balsamiq project and asked them the interview questions that I had scripted. I have documented the initial setup and interview session below.
 
@@ -125,7 +129,7 @@ Showed a draft presentation of my project visuals and informed that they were lo
  7. Do you have any suggestions for the overall project?
 
 
-#### First interviewee - An anonymous friend:
+**First interviewee - An anonymous friend:**
  
  1.  What do you think is the topic of my project?
 
@@ -157,7 +161,7 @@ Showed a draft presentation of my project visuals and informed that they were lo
  
  Answer: Make sure that the Shorthand version of the story turns out well.
  
- #### Second interviewee - A family member:
+ **Second interviewee - A family member:**
  
  1.  What do you think is the topic of my project?
 
@@ -189,7 +193,7 @@ Showed a draft presentation of my project visuals and informed that they were lo
  
  Answer: I think you have a clear vision of your project. I wish you good luck.
  
- ####Third interviewee - A family member:
+ **Third interviewee - A family member:**
  
  1.  What do you think is the topic of my project?
 

@@ -17,36 +17,28 @@ In this section I will gather information about how Google started its journey a
 
 **Financial analysis of Google**
 
-Alphabet's annual revenue from 2002 to 2019.
-https://www.statista.com/statistics/266206/googles-annual-global-revenue/
+ * Alphabet's annual revenue from 2002 to 2019.
 
-Google's Quarterly revenue from 2008.
-https://www.statista.com/statistics/267606/quarterly-revenue-of-google/
+ * Google's Quarterly revenue from 2008.
 
-Google cloud revenue from 2017 to 2019.
-https://www.statista.com/statistics/478176/google-public-cloud-revenue/
+ * Google cloud revenue from 2017 to 2019.
 
-Google's advertising revenue from 2001 to 2019.
-https://www.statista.com/statistics/266249/advertising-revenue-of-google/
+ * Google's advertising revenue from 2001 to 2019.
 
 **Google's market value with other companies**
 
 Market capitalization of biggest internet companies.
-https://www.statista.com/statistics/277483/market-value-of-the-largest-internet-companies-worldwide/
 
 **Google Advertisement**
 This section will show how Google began selling advertising through a program called Google AdWords. It offered marketers the opportunity to purchase relevant keywords that appear next to search results. The revenue from these ad sales helped propel Google to one of the richest companies in the world.
 
-
 **Google's search engine**
 
 Google's market share of search engine from 2010.
-https://www.statista.com/statistics/216573/worldwide-market-share-of-search-engines/
 
 **Google vs. Microsoft Advertising**
 
 This statistic shows the mobile search click share of Google and Microsoft Advertising in the United States as of the first quarter of 2020, sorted by device. 
-https://www.statista.com/statistics/223308/trend-in-impressions-on-google-and-bing-in-the-us/
 
 **How Google is brining people together**
 
@@ -58,7 +50,8 @@ Finally, I will all tie this up together to show how Google has changed people's
 
 
 ### Tools that I plan on using
-I shall be documenting my project in Shorthand tool.
+
+I shall be documenting my project in Shorthand tool. Their templates allow for elegant and simple stories that any novice could quickly master creating, as well as the option for more technically nuanced approaches to create slick and professional designs.
 
 ### Dataset
 
@@ -115,7 +108,22 @@ To conduct the interview and research, I picked two of my family members and a f
 I created a wireframe in Balsamiq with the initial sketches and layout of the project and showed to my interviewees. I did not share my project title. I wanted them to guess the topic based on my sketches and visuals. The idea was for them to guess the topic, suggest improvements, and be my critique.
 
 Premise /setup:
-Showed a draft presentation of my project visuals and informed that they were looking at my initial sketches of Telling Stories with Data coursework's final project. 
+Showed a draft presentation of my project visuals and informed that they were looking at my initial sketches of Telling Stories with Data coursework's final project. I created a set of seven interview questions.
+
+ 1.  What do you think is the topic of my project?
+
+ 2.  Do you think I should include more history of Google?
+ 
+ 3. What other sub-topics could be relevant for this project* 
+
+ 4. Could you please critique my sketches?
+  
+ 5. Do you like the story telling platform that I have chosen? 
+ 
+ 6. Could you please ctitique the content? 
+ 
+ 7. Do you have any suggestions for the overall project?
+
 
 #### First interviewee - An anonymous friend:
  
@@ -135,10 +143,80 @@ Showed a draft presentation of my project visuals and informed that they were lo
 
  4. Could you please critique my sketches?
  
- Answer:
+ Answer: Your story could use more sketches.
  
  5. Do you like the story telling platform that I have chosen?
  
- Answer: Shorthand sounds good. You should also try a platform called Storybird.
+ Answer: Shorthand sounds good. You should also explore a platform called Storybird.
  
- *My answer: I plan on using a story telling tool called Shorthand for my project, do you have any suggestions?*
+ 6. Could you please ctitique the content?
+ 
+ Answer: The content looks good. You can include content related to Google Play.
+ 
+ 7. Do you have any suggestions for the overall project?
+ 
+ Answer: Make sure that the Shorthand version of the story turns out well.
+ 
+ #### Second interviewee - A family member:
+ 
+ 1.  What do you think is the topic of my project?
+
+ Answer: It seems like you are working on Google's growth and comparing with top internet giants.
+
+*I told that this was pretty close. I am showing the rise of Google.*
+
+ 2.  Do you think I should include more history of Google?
+ 
+ Answer: The history looks fine. Add more content based on your study.
+
+ 3. What other sub-topics could be relevant for this project*
+
+ Answer: You can add a story related to Government's request to remove content from Google.
+
+ 4. Could you please critique my sketches?
+ 
+ Answer: The sketches look fine. Use more visual and use a better tool to create them.
+ 
+ 5. Do you like the story telling platform that I have chosen?
+ 
+ Answer: I don't know a lot of data visual tools. This one looks good.
+ 
+ 6. Could you please ctitique the content?
+ 
+ Answer: The content looks good. Make sure you add enough write-up.
+ 
+ 7. Do you have any suggestions for the overall project?
+ 
+ Answer: I think you have a clear vision of your project. I wish you good luck.
+ 
+ #### Third interviewee - A family member:
+ 
+ 1.  What do you think is the topic of my project?
+
+ Answer: It seems like you are working on Google's achievements and trying to tell a story of Google's success.
+
+*I told that this was pretty close. I am showing the rise of Google.*
+
+ 2.  Do you think I should include more history of Google?
+ 
+ Answer: The history looks fine, add a little more write up.
+
+ 3. What other sub-topics could be relevant for this project*
+
+ Answer: You can add more comparison related stories with other tech giants.
+
+ 4. Could you please critique my sketches?
+ 
+ Answer: The sketches look good. Use a good tool to formalize them.
+ 
+ 5. Do you like the story telling platform that I have chosen?
+ 
+ Answer: Shorthand sounds good. I have heard good things about this platform.
+ 
+ 6. Could you please ctitique the content?
+ 
+ Answer: The content will make more sense when you have more write-up.
+ 
+ 7. Do you have any suggestions for the overall project?
+ 
+ Answer: The first draft looks great. I could understand what story are you trying to tell. I will eagerly wait for the full story set-up.

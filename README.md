@@ -16,6 +16,10 @@ Texas is the 11th-most active coronavirus hotspot in the world right now. Since 
 
 In Texas, cases are soaring. There are now more than 210,000 cases in the Lone Star State. The state reported a record 10,000+ on Tuesday, July 7. Texas joined New York and Florida as the only other states to break the 10,000 daily case threshold. That's more single-day cases than any European nation ever reported at the height of their outbreaks and nearly as much as South Korea has reported the entire pandemic.
 
+![New deaths each day](https://user-images.githubusercontent.com/67939647/89104761-4a8bce00-d3e1-11ea-9c53-733815a11149.jpg)
+
+![Cumulative cases](https://user-images.githubusercontent.com/67939647/89104762-4b246480-d3e1-11ea-9b6b-eb3d54b2c029.jpg)
+
 **How many more cases will the state see?**
 
 ### Texas' testing capacity
@@ -35,6 +39,10 @@ Texas is heading down a dangerous path, local leaders warn as coronavirus cases 
 ### Impact of reopening the state
 
 ### Current Hospitalization in Texas
+
+![Daily hospitalization](https://user-images.githubusercontent.com/67939647/89104758-46f84700-d3e1-11ea-95a4-bf386902de74.jpg)
+
+![Hospitalization rate](https://user-images.githubusercontent.com/67939647/89104759-495aa100-d3e1-11ea-8112-b98aed7289af.jpg)
 
 ### Ways to conntrol the case counts in Houston
 

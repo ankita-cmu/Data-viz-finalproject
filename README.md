@@ -1,6 +1,47 @@
 # Data-viz-finalproject
 Telling Stories with data final project
 
+## **Project Name - Texans - Wear a Mask**
+
+### **Introduction**
+
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+
+### Coronavirus in Texas
+
+Texas is the 11th-most active coronavirus hotspot in the world right now. Since its outbreak in China late last year, the novel coronavirus has killed more than 677,000 people worldwide (as of July 31, 2020). The virus’s rapid spread across the globe has health officials scrambling to contend with the pandemic. What do Texans need to know about the outbreak? 
+
+**How many cases?**
+
+In Texas, cases are soaring. There are now more than 210,000 cases in the Lone Star State. The state reported a record 10,000+ on Tuesday, July 7. Texas joined New York and Florida as the only other states to break the 10,000 daily case threshold. That's more single-day cases than any European nation ever reported at the height of their outbreaks and nearly as much as South Korea has reported the entire pandemic.
+
+**How many more cases will the state see?**
+
+### Texas' testing capacity
+
+Texas appears to be lagging behind other populous states in testing for COVID-19. Public testing is available in San Antonio, Dallas, Austin and Houston, and more than 11,000 people have been tested in Texas as of March 24. Abbott said he expects the state to start testing 10,000 people weekly and is expecting 15,000 test kits from the Federal Emergency Management Agency.
+
+### Comparison with other US states
+
+**Should Texans panic**
+
+### Unemployment in Texas
+
+### Impact of reopening the state
+
+
+
+### Why wearing a mask is important?
+
+### My call to action
+
+### 
+
+
+
+============================================================================================
+
 ## **Project Name - The Rise of Google**
 
 ### **Introduction**

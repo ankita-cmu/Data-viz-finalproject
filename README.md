@@ -24,19 +24,25 @@ Texas appears to be lagging behind other populous states in testing for COVID-19
 
 ### Comparison with other US states
 
+Texas ranked 3rd worst state in U.S. when fighting coronavirus
+
 **Should Texans panic**
+
+Texas is heading down a dangerous path, local leaders warn as coronavirus cases and hospitalizations surge.
 
 ### Unemployment in Texas
 
 ### Impact of reopening the state
 
+### Current Hospitalization in Texas
 
+### Ways to conntrol the case counts in Houston
 
 ### Why wearing a mask is important?
 
 ### My call to action
 
-### 
+Appeal to wear masks...
 
 
 

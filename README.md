@@ -63,6 +63,10 @@ Appeal to wear masks...
  <iframe title="Coronavirus Cases by age group in Texas" aria-label="chart" id="datawrapper-chart-0BLc5" src="https://datawrapper.dwcdn.net/0BLc5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+Death counts in the US by States:
+
+<div class="flourish-embed flourish-map" data-src="visualisation/3382489" data-url="https://flo.uri.sh/visualisation/3382489/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 **Tools that I am going to use**
 
 For tools related research, I used (Towards Data Science portal) [https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce] that has a list of useful data visualtions tools available for free. There is a short demo gif with each tool shown.
@@ -78,6 +82,14 @@ For graphs:
  * [Flourish Studio](https://flourish.studio/)
  
  * [Canva](https://www.canva.com/graphs/)
+ 
+ **Sources**
+ 
+ [WHO COVID-19DAshboard](https://covid19.who.int/)
+ 
+ Death count by US states - [USA Facts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
+ 
+ 
 
 ============================================================================================
 

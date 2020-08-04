@@ -75,6 +75,10 @@ Death counts in the US by States:
 
 <div class="flourish-embed flourish-map" data-src="visualisation/3382489" data-url="https://flo.uri.sh/visualisation/3382489/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Distribution of COVID19 cases in the World
+
+<iframe title="Distribution of COVID19 cases in the World" aria-label="chart" id="datawrapper-chart-fwPdx" src="https://datawrapper.dwcdn.net/fwPdx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="485"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 **Tools that I am going to use**
 
@@ -98,7 +102,7 @@ For graphs:
  
  Death count by US states - [USA Facts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
  
- 
+ Distribution of COVID19 cases in the World - [Statista](https://www.statista.com/statistics/1111696/covid19-cases-percentage-by-country/)
 
 ============================================================================================
 

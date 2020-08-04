@@ -63,9 +63,18 @@ Appeal to wear masks...
  <iframe title="Coronavirus Cases by age group in Texas" aria-label="chart" id="datawrapper-chart-0BLc5" src="https://datawrapper.dwcdn.net/0BLc5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+Count of cases by WHO regions
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/3381399" data-url="https://flo.uri.sh/visualisation/3381399/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Case count in the US be States
+
+<div class="flourish-embed flourish-map" data-src="visualisation/3382746" data-url="https://flo.uri.sh/visualisation/3382746/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Death counts in the US by States:
 
 <div class="flourish-embed flourish-map" data-src="visualisation/3382489" data-url="https://flo.uri.sh/visualisation/3382489/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 **Tools that I am going to use**
 

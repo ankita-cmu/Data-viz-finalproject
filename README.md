@@ -69,15 +69,15 @@ For tools related research, I used (Towards Data Science portal) [https://toward
 
 For graphs:
 
- * Data Wrapper - https://www.datawrapper.de/
+ * [Data Wrapper](https://www.datawrapper.de/)
  
- * Raw Graph - https://rawgraphs.io/
+ * [Raw Graph](https://rawgraphs.io/)
  
- * Chart Studio - https://plotly.com/chart-studio/
+ * [Chart Studio](https://plotly.com/chart-studio/)
  
- * Flourish Studio - https://flourish.studio/
+ * [Flourish Studio](https://flourish.studio/)
  
- * Canva - https://www.canva.com/graphs/
+ * [Canva](https://www.canva.com/graphs/)
 
 ============================================================================================
 

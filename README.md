@@ -52,7 +52,27 @@ Texas is heading down a dangerous path, local leaders warn as coronavirus cases 
 
 Appeal to wear masks...
 
+**Datasets**
 
+ * Cases in Texas by Age Group
+ 
+ [Cases by Age group.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5022660/Cases.by.Age.group.xlsx)
+
+**Tools that I am going to use**
+
+For tools related research, I used (Towards Data Science portal) [https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce] that has a list of useful data visualtions tools available for free. There is a short demo gif with each tool shown.
+
+For graphs:
+
+ * Data Wrapper - https://www.datawrapper.de/
+ 
+ * Raw Graph - https://rawgraphs.io/
+ 
+ * Chart Studio - https://plotly.com/chart-studio/
+ 
+ * Flourish Studio - https://flourish.studio/
+ 
+ * Canva - https://www.canva.com/graphs/
 
 ============================================================================================
 

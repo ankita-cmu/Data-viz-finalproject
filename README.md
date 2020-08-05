@@ -83,13 +83,17 @@ Distribution of COVID19 cases in the World
 <iframe title="Distribution of COVID19 cases in the World" aria-label="chart" id="datawrapper-chart-fwPdx" src="https://datawrapper.dwcdn.net/fwPdx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="485"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-Texas Hospitalization Trend
+Cases trend in Texas
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/3384146" data-url="https://flo.uri.sh/visualisation/3384146/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/3385649" data-url="https://flo.uri.sh/visualisation/3385649/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Fatalities trend in Texas
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3384307" data-url="https://flo.uri.sh/visualisation/3384307/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Texas Hospitalization Trend
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3384146" data-url="https://flo.uri.sh/visualisation/3384146/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ICU Beds availability in top cities
 

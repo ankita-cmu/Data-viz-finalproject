@@ -91,6 +91,13 @@ Fatalities trend in Texas
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3384307" data-url="https://flo.uri.sh/visualisation/3384307/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+ICU Beds availability in top cities
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3384444" data-url="https://flo.uri.sh/visualisation/3384444/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Trend of ICU Beds occupied in top cities
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3385564" data-url="https://flo.uri.sh/visualisation/3385564/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 **Tools that I am going to use**
 

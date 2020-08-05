@@ -54,18 +54,16 @@ Appeal to wear masks...
 
 **Datasets**
 
- * Cases in Texas by Age Group
- 
- [Cases by Age group.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5022660/Cases.by.Age.group.xlsx)
- 
- Plot created using Data Wrapper:
- 
- <iframe title="Coronavirus Cases by age group in Texas" aria-label="chart" id="datawrapper-chart-0BLc5" src="https://datawrapper.dwcdn.net/0BLc5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+
 
 Count of cases by WHO regions
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/3381399" data-url="https://flo.uri.sh/visualisation/3381399/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Distribution of COVID19 cases in the World
+
+<iframe title="Distribution of COVID19 cases in the World" aria-label="chart" id="datawrapper-chart-fwPdx" src="https://datawrapper.dwcdn.net/fwPdx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="485"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 Case count in the US be States
 
@@ -78,10 +76,6 @@ Death counts in the US by States:
 Number of total and positive coronavirus (COVID-19) tests conducted in the U.S.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3383429" data-url="https://flo.uri.sh/visualisation/3383429/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Distribution of COVID19 cases in the World
-
-<iframe title="Distribution of COVID19 cases in the World" aria-label="chart" id="datawrapper-chart-fwPdx" src="https://datawrapper.dwcdn.net/fwPdx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="485"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
 
 Cases trend in Texas
 
@@ -108,6 +102,14 @@ Hospital related quick counts
 <iframe title="Hospital related quick counts" aria-label="chart" id="datawrapper-chart-QfRjn" src="https://datawrapper.dwcdn.net/QfRjn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="325"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+ Cases in Texas by Age Group
+ 
+ [Cases by Age group.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5022660/Cases.by.Age.group.xlsx)
+ 
+ Plot created using Data Wrapper:
+ 
+ <iframe title="Coronavirus Cases by age group in Texas" aria-label="chart" id="datawrapper-chart-0BLc5" src="https://datawrapper.dwcdn.net/0BLc5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 Death Rate:
 Death rates from COVID-19 in the US by state (per 100,000 people)

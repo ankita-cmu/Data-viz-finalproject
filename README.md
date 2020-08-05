@@ -103,6 +103,12 @@ Trend of ICU Beds occupied in top cities
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3385564" data-url="https://flo.uri.sh/visualisation/3385564/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Hospital related quick counts
+
+<iframe title="Hospital related quick counts" aria-label="chart" id="datawrapper-chart-QfRjn" src="https://datawrapper.dwcdn.net/QfRjn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="325"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
 **Tools that I am going to use**
 
 For tools related research, I used (Towards Data Science portal) [https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce] that has a list of useful data visualtions tools available for free. There is a short demo gif with each tool shown.

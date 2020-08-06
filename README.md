@@ -152,7 +152,10 @@ For graphs:
   
   * The Texas Tribune
   
-  
+ **Shorthand Story**
+ 
+ <script src="https://embed.shorthand.com/embed_9.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/texans-wear-a-mask/"></div>
 
 ============================================================================================
 

@@ -143,6 +143,16 @@ For graphs:
  Distribution of COVID19 cases in the World - [Statista](https://www.statista.com/statistics/1111696/covid19-cases-percentage-by-country/)
  
  Number of total and positive coronavirus (COVID-19) tests conducted in the U.S. - [Statista](https://www.statista.com/statistics/1111716/covid19-us-positive-tests-by-state/)
+ 
+  * Houston Chronicle
+  
+  * Statista
+  
+  * Click2Houston
+  
+  * The Texas Tribune
+  
+  
 
 ============================================================================================
 

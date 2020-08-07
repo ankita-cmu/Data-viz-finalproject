@@ -3,6 +3,34 @@ Telling Stories with data final project
 
 ## **Project Name - Texans - Wear a Mask**
 
+**Wireframe Idea using Balsamiq**
+
+![New Wireframe 1 copy 4](https://user-images.githubusercontent.com/67939647/89596348-875e2780-d81c-11ea-8c34-a27af8608370.png)
+
+![New Wireframe 1](https://user-images.githubusercontent.com/67939647/89596345-862cfa80-d81c-11ea-8df1-4548b1ba696f.png)
+
+![New Wireframe 1 copy](https://user-images.githubusercontent.com/67939647/89596344-862cfa80-d81c-11ea-97d4-72b0088c26ff.png)
+
+![New Wireframe 1 copy 2](https://user-images.githubusercontent.com/67939647/89596346-862cfa80-d81c-11ea-8ace-393e5c9d3d0b.png)
+
+![New Wireframe 1 copy 3](https://user-images.githubusercontent.com/67939647/89596347-86c59100-d81c-11ea-8201-b829ab3f1b0d.png)
+
+![New Wireframe 1 copy 5](https://user-images.githubusercontent.com/67939647/89596349-875e2780-d81c-11ea-8113-8485ae3cbbc9.png)
+
+![New Wireframe 1 copy 6](https://user-images.githubusercontent.com/67939647/89596350-875e2780-d81c-11ea-9741-ee1247efad2a.png)
+
+![New Wireframe 1 copy 7](https://user-images.githubusercontent.com/67939647/89596351-87f6be00-d81c-11ea-99ff-65521555e489.png)
+
+![New Wireframe 1 copy 8](https://user-images.githubusercontent.com/67939647/89596352-87f6be00-d81c-11ea-9207-bcec6d630e65.png)
+
+![New Wireframe 1 copy 9](https://user-images.githubusercontent.com/67939647/89596353-87f6be00-d81c-11ea-89ce-b92d3234dfb3.png)
+
+![New Wireframe 1 copy 10](https://user-images.githubusercontent.com/67939647/89596341-85946400-d81c-11ea-93b7-a671f363a8a1.png)
+
+![New Wireframe 1 copy 11](https://user-images.githubusercontent.com/67939647/89596342-85946400-d81c-11ea-8391-f7beb6116719.png)
+
+![New Wireframe 1 copy 12](https://user-images.githubusercontent.com/67939647/89596343-862cfa80-d81c-11ea-9cb6-07c696d26a19.png)
+
 ### **Introduction**
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
@@ -20,23 +48,11 @@ In Texas, cases are soaring. There are now more than 210,000 cases in the Lone S
 
 ![Cumulative cases](https://user-images.githubusercontent.com/67939647/89104762-4b246480-d3e1-11ea-9b6b-eb3d54b2c029.jpg)
 
-**How many more cases will the state see?**
-
-### Texas' testing capacity
-
-Texas appears to be lagging behind other populous states in testing for COVID-19. Public testing is available in San Antonio, Dallas, Austin and Houston, and more than 11,000 people have been tested in Texas as of March 24. Abbott said he expects the state to start testing 10,000 people weekly and is expecting 15,000 test kits from the Federal Emergency Management Agency.
 
 ### Comparison with other US states
 
 Texas ranked 3rd worst state in U.S. when fighting coronavirus
 
-**Should Texans panic**
-
-Texas is heading down a dangerous path, local leaders warn as coronavirus cases and hospitalizations surge.
-
-### Unemployment in Texas
-
-### Impact of reopening the state
 
 ### Current Hospitalization in Texas
 
@@ -54,7 +70,7 @@ Appeal to wear masks...
 
 **Datasets**
 
-
+**All the graphs that I am going to use**
 
 Count of cases by WHO regions
 

@@ -3,6 +3,8 @@ Things did not start off well for my final project. I first chose a project pres
 # Data-viz-finalproject
 Telling Stories with data final project
 
+The **intended audience** for my story are the people residing in the State of Texas. I live in Texas myself and can tell that the state is not doing well in handling the pandemic. With my story and presentation, I would like to bring awareness to the State of Texas and request them to do their bit by wearing a mask in the public (if they have to go out).
+
 ## **Project Name - TEXANS - Wear a Mask**
 
 **Wireframe Idea using Balsamiq**

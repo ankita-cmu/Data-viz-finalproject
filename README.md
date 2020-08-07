@@ -1,7 +1,9 @@
+Things did not start off well for my final project. I first chose a project presentation on 'The Rise of Google'. But it was hard to find a call to action on this topic. I took advice from my Professor, TA, and peers and took the bold step to change my topic. I finished everything from start to end within 5 days only with heads down focus and dedication.
+
 # Data-viz-finalproject
 Telling Stories with data final project
 
-## **Project Name - Texans - Wear a Mask**
+## **Project Name - TEXANS - Wear a Mask**
 
 **Wireframe Idea using Balsamiq**
 
@@ -68,9 +70,57 @@ Texas ranked 3rd worst state in U.S. when fighting coronavirus
 
 Appeal to wear masks...
 
-**Datasets**
+### Interviews
 
-**All the graphs that I am going to use**
+I requested a friend and two family members for an interview to get feedback on my thought process. I shared a spreadsheet with them and noted down their response.
+This is how it went:
+
+<img width="687" alt="Interviews" src="https://user-images.githubusercontent.com/67939647/89600184-0a847b00-d827-11ea-88fa-b3394e8d1fe3.png">
+
+**Improvements post interview**
+
+So, I recieved quite helpful feedbacks from my interviewees within a very short span of time. Based on their feedbacks I made below changes to my initial plan:
+
+ * Changed the word 'TEXANS' to 'Texans'. I am glad that my sister caught this. Else this would have looked super rude.
+ 
+ * As per my friend's feedback, I included two graphs that showed the United States maps with states border. One showed the confirmed case counts and the other one showed fatalities.
+ 
+ * Another change I did was to remove the tabular chart related to Texas hospital numbers, that did not seem to add a lot of value.
+ 
+ * And finally I added two additional charts to show the ICU bed trends. This seemed like an extremely important area to cover to show the impact.
+ 
+ All these changes are taken care of and shown in the list of charts below that I plan on incorporating in my final story.
+
+**Various data sets that helped me achoeve these amazing plots**
+
+
+[Cases by Age group.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038910/Cases.by.Age.group.xlsx)
+
+
+[Cumulative cases by country.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038915/Cumulative.cases.by.country.xlsx)
+
+[Texas entire data.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038916/Texas.entire.data.xlsx)
+
+[Texas hospitalization data.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038917/Texas.hospitalization.data.xlsx)
+
+[Texas Fatality trend.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038918/Texas.Fatality.trend.xlsx)
+
+[Texas Hospital Capacity over Time by TSA Region.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038919/Texas.Hospital.Capacity.over.Time.by.TSA.Region.xlsx)
+
+[Total Avaiable Beds in hospitals.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038920/Total.Avaiable.Beds.in.hospitals.xlsx)
+
+[Trend for ICU beds occupied.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038921/Trend.for.ICU.beds.occupied.xlsx)
+
+[Texas Cases trend.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038922/Texas.Cases.trend.xlsx)
+
+[Texas Hospitalizations quick count.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038923/Texas.Hospitalizations.quick.count.xlsx)
+
+[Death Rates by State.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038924/Death.Rates.by.State.xlsx)
+
+[Texas testing trend.xlsx](https://github.com/ankita-cmu/Data-viz-finalproject/files/5038925/Texas.testing.trend.xlsx)
+
+
+**All the graphs that I am going to use in my shorthand story**
 
 Count of cases by WHO regions
 
@@ -152,28 +202,50 @@ For graphs:
  
  **Sources**
  
- [WHO COVID-19DAshboard](https://covid19.who.int/)
+ I gathered inforamtion, statistics, news, reports, etc. from all the sources below:
  
- Death count by US states - [USA Facts](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
+<img width="374" alt="Sources" src="https://user-images.githubusercontent.com/67939647/89600777-6f8ca080-d828-11ea-9dd7-4a9b290d4a88.png">
+
+  
+**Putting everything into a story**
+
+ * I spent days and nights compiling everything together and putting it all in the form of a story that would have a call to action value.
  
- Distribution of COVID19 cases in the World - [Statista](https://www.statista.com/statistics/1111696/covid19-cases-percentage-by-country/)
+ * I went through the Shorthand tutorial that was posted in course modules.
  
- Number of total and positive coronavirus (COVID-19) tests conducted in the U.S. - [Statista](https://www.statista.com/statistics/1111716/covid19-us-positive-tests-by-state/)
+ * I explored Canva and Inforgram for posters, images, and templates. I somehow felt Canva came as a better to me in terms of the user flexibility and ease of understanding.
  
-  * Houston Chronicle
-  
-  * Statista
-  
-  * Click2Houston
-  
-  * The Texas Tribune
-  
+ * Once I started writing downt the story, after couple of iterations I decided that I wanted to have a black and white theme. The backfround will ne black and the text will be in black.
+ 
+ * There were places where I could not avoid color, so I had to keep them.
+ 
+ * I searched for high quality Corona virus related images to set as Shorthand backdrops.
+ 
+ * I kept most of my graphs in pastel colors, I liked the way they went with the black and whote theme.
+ 
+ * Canva was a life savior in terms of creating amazing posters with symbols, backgrounds, and beautiful fonts.
+ 
+ * I made sure that the content flow made sense and kept my audience engaged.
+ 
+ * Once I finished creating the story, I sent it to my husband and sister for review. I had their green lights.
+ 
+ * Next, I took ten iterations to prepare the talk for my presentation. It was hard to condense close to 20 slides into 5-6 log sentences to be spoken in 60 seconds.
+ 
+ * I rehearsed the prepared talk 3-4 times and I knew I was ready to present my hard work.
+
+
  **Shorthand Story**
+ 
+ Link to my story for presentation: https://carnegiemellon.shorthandstories.com/texans-wear-a-mask/index.html
+ 
+ * Embeded below:
  
  <script src="https://embed.shorthand.com/embed_9.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/texans-wear-a-mask/"></div>
 
 ============================================================================================
+
+**Please ignore the portion below, this was my initial project idea. But I had to scrap it.**
 
 ## **Project Name - The Rise of Google**
 
